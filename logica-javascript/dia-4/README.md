@@ -2,4 +2,4 @@
 
 #### Lógica JavaScript 4/7
 
-### Fluxo de decisão
+### Loops
