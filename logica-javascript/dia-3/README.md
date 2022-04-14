@@ -1,5 +1,5 @@
 ## #7DaysOfCode
 
-#### Lógica JavaScript 4/7
+#### Lógica JavaScript 3/7
 
 ### Fluxo de decisão
